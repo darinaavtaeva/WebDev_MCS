@@ -1,0 +1,15 @@
+body {
+	background: #FAEBD7
+}
+div {
+	color: red;
+}
+h1 {
+	color: rgb(200, 255, 30);
+}
+p {
+	color: rgba(200, 255, 30, .5);
+}
+li {
+	color: #7FFFD4;
+}

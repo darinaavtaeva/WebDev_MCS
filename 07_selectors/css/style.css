@@ -1,0 +1,27 @@
+div {
+	color: red;
+}
+
+section {
+	color: blue;
+}
+
+footer div {
+	color: brown;
+}
+
+nav, h2 {
+	color: grey;
+}
+main .second {
+	color: yellow;
+}
+
+.second {
+	background: green;
+}
+
+#hola {
+	color: white;
+	background: black;
+}
