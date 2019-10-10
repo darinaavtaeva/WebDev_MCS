@@ -1,0 +1,63 @@
+@font-face {
+	src: url(../font/Architectural.ttf);
+	font-family: 'Arch';
+	font-weight: normal;
+}
+
+.heading {
+	height: 130px;
+	width: 1440px;
+	background-color: #FAEBD7;
+	font-family: 'Arch';
+	font-size: 55px;
+	font-weight: bold;
+	line-height: 57px;
+	display: flex;
+	align-items: center;
+	color: #8B4513;
+	letter-spacing: 15px;
+}
+.sectionOne {
+	height: 575px;
+	width: 1440px;
+	background-image: url(../img/image.jpg);
+	background-attachment: fixed;
+	background-size: cover;
+}
+.sectionTwo {
+	height: 100px;
+	width: 1440px;
+	background-color: #FAEBD7;
+	font-family: Helvetica, sans-serif;
+	font-size: 25px;
+	line-height: 29px;
+	display: flex;
+	align-items: center;
+	text-transform: uppercase;
+	color: #8B4513;
+	letter-spacing: 10px;
+}
+.sectionTwo a {
+	color: #8B4513;
+	text-decoration: none;
+}
+.sectionThree p {
+	width: 1280px;
+	height: 627px;
+	text-align: left;
+	letter-spacing: 5px;
+	position: absolute;
+	left: 80px;
+	top: 900px;
+	font-family: 'Pacifico', cursive;
+	font-size: 30px;
+	font-weight: normal;
+}
+.footer {
+	position: absolute;
+	width: 1440px;
+	height: 200px;
+	left: 0px;
+	top: 1400px;
+	background: #FAEBD7;
+}
